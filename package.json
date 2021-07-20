@@ -19,7 +19,7 @@
     "clone-deep": "^4.0.1",
     "formik": "^2.1.4",
     "react": "16.9.0",
-    "react-native": "0.61.5",
+    "react-native": "0.62.3",
     "react-native-country-picker-modal": "^1.10.0",
     "react-native-firebase": "^5.6.0",
     "react-native-flash-message": "^0.1.15",
